@@ -1,0 +1,17 @@
+[
+   {
+      "id":1,
+      "titulo":"O Pequeno Príncipe",
+      "autor":"Antoine de Saint-Exupéry"
+   },
+   {
+      "id":2,
+      "titulo":"Dom Casmurro",
+      "autor":"Machado de Assis"
+   },
+   {
+      "id":3,
+      "titulo":"1984",
+      "autor":"George Orwell"
+   }
+]
